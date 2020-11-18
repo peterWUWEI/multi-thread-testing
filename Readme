@@ -1,0 +1,3 @@
+This is a small Java demo project for BlockingQueue. This project mainly consists three files: NumbersProducer is the random number generator which writes random numbers to
+BlockingQUeue. NumbersConsumer is a worker which take numbers from BlockingQueue and prints out the number. App is the application which runs the whole process of writing
+and retrieving numbers from BlockingQueue.
